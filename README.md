@@ -68,28 +68,7 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DilumindaPeiris&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake.svg"
-    />
-  </picture>
-</div>
-
----
 
 <div align="center">
   <i>Let's build something amazing together!</i>
