@@ -61,9 +61,32 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DilumindaPeiris&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Diluminda's GitHub stats" height="192px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumindaPeiris&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="Diluminda's GitHub streak" height="192px"/>
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DilumindaPeiris&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/DilumindaPeiris/DilumindaPeiris/output/github-snake.svg"
+    />
+  </picture>
 </div>
 
 ---
