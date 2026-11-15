@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Diluminda Peiris - Full-Stack Developer" width="100%"/>
+  <img src="./header.svg" alt="Diluminda Peiris - Full-Stack Developer" width="100%"/>
 </div>
 
 <br/>
