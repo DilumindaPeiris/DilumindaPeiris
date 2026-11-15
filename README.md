@@ -1,76 +1,99 @@
-<h1 align="center">Hi there, I'm Diluminda Peiris 👋</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Enthusiast | Tech Volunteer</h3>
-
-<p align="center">
-  <a href="https://diluminda.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://github.com/DilumindaPeiris">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:thelgedilu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a Computer Science undergraduate at NSBM Green University and a co-founder of the digital creative agency Creative Dep. I specialize in building robust full-stack web applications and designing intuitive, modern user interfaces. 
-
-- 🎓 **Education:** Studying Computer Science at NSBM Green University.
-- 💻 **Current Focus:** Developing scalable web applications (MERN stack) and exploring IoT integration.
-- 🎨 **Design Philosophy:** Passionate about clean architecture, dark-mode aesthetics, and glassmorphic UI/UX.
-- 🌟 **Community:** Active Volunteer Coordinator for the IEEE Computer Society Student Branch Chapter.
-- 📫 **How to reach me:** [thelgedilu@gmail.com](mailto:thelgedilu@gmail.com)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <b>Frontend & Design:</b><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Backend & Database:</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<p align="left">
-  <b>Tools & Environment:</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilumindaPeiris&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Diluminda's GitHub stats" height="192px"/>
-  <img src="https://streak-stats.demolab.com/?user=DilumindaPeiris&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="Diluminda's GitHub streak" height="192px"/>
+  <img src="./assets/header.svg" alt="Diluminda Peiris - Full-Stack Developer" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumindaPeiris&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
+  <a href="https://www.diluminda.me/"><img src="https://img.shields.io/badge/PORTFOLIO-DILUMINDA.ME-E82C7C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/dilumindapeiris"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:thelgedilu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DilumindaPeiris&label=PROFILE%20VIEWS&color=E82C7C&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ✨ About Me
+
+> **Computer Science Undergraduate @ NSBM Green University**, blending scalable software engineering, modern dark-mode aesthetics, and hardware-software integrations into seamless digital products.
+
+| | |
+|---|---|
+| 🔭 **Building** | Full-stack web apps (MERN) and Flutter-based mobile solutions |
+| 🎨 **Co-founder** | **Creative Dep**: glassmorphic brand identities and platforms |
+| 🤝 **Volunteering** | Volunteer Coordinator & Event Chair, IEEE Computer Society Student Branch |
+| 🌱 **Exploring** | IoT integrations and cloud architecture |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 SyncBoard</h3>
+      Full-stack Agile Kanban task-management platform.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Uni Bite</h3>
+      Campus food pre-ordering app with kiosk-based top-up wallets.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ IoT Solar Manager</h3>
+      ESP32-powered energy management with real-time sensor tracking and a Firebase dashboard.<br/><br/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💘 Minggle</h3>
+      Mobile dating app. I engineered the <b>Privacy Zone</b> geo-blocking and led core UI design.<br/><br/>
+      <img src="https://img.shields.io/badge/Mobile-E82C7C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🛠️ Arsenal
+
+<div align="center">
+  <p><b>Languages & Frameworks</b></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,react,flutter,tailwind,nodejs,express,dotnet,mongodb,firebase&perline=14" />
+  <p><b>Tools & Architecture</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,arduino&perline=6" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📈 GitHub Activity
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DilumindaPeiris&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=E82C7C&title_color=E82C7C" alt="GitHub stats" height="175px"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=DilumindaPeiris&theme=radical&hide_border=true&background=0D1117&ring=E82C7C&fire=E82C7C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub streak" height="175px"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumindaPeiris&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=E82C7C" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E82C7C&center=true&vCenter=true&width=500&lines=Let's+build+something+great+together" alt="Footer" />
 </div>
